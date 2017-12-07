@@ -7,4 +7,6 @@ elm-stuff
 # elm-repl generated files
 repl-temp-*
 
-# End of https://www.gitignore.io/api/elm
+# End of https://www.gitignore.io/api/elmnode_modules/
+
+node_modules/
